@@ -1,7 +1,7 @@
 
 <h1 align="center"> 
   <a href="https:kishore8220.netlify.app">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kishore;ML+Engineer;AI+Enthusiast;IoT+Thinker;DL+Engineer;Django+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kishore;ML+Engineer;AI+Enthusiast;GenAi+Developer;DL+Engineer;RAG+specialist" alt="Typing SVG" />
   </a>
 </h1>
 
